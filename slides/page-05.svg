@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" font-family="Noto Serif SC, serif">
+  <rect x="0" y="0" width="960" height="540" fill="#FFFFFF"/>
+
+  <text x="64" y="84" font-size="30" fill="#1F1F1F" font-weight="600">驯兽师与猛兽</text>
+  <text x="64" y="116" font-size="15" fill="#A6392E">其实，任何人都是驯兽师，而那野兽，无非就是各人的性情而已。</text>
+  <line x1="64" y1="138" x2="896" y2="138" stroke="#E3E0DA" stroke-width="1"/>
+
+  <!-- left: four reading points -->
+  <text x="64" y="184" font-size="15" fill="#A6392E" font-weight="600">点破主旨</text>
+  <text x="200" y="184" font-size="13" fill="#555555">那些冠冕堂皇的话，无非是害怕暴露才华不足的恐惧，</text>
+  <text x="200" y="204" font-size="13" fill="#555555">和不肯刻苦用功的怠惰而已。</text>
+
+  <text x="64" y="240" font-size="15" fill="#A6392E" font-weight="600">对照</text>
+  <text x="200" y="240" font-size="13" fill="#555555">当年不少才华远逊于他的人，肯努力、不停磨砺自己，</text>
+  <text x="200" y="260" font-size="13" fill="#555555">最终脱颖而出；他却停在了原地。</text>
+
+  <text x="64" y="296" font-size="15" fill="#A6392E" font-weight="600">代价</text>
+  <text x="200" y="296" font-size="13" fill="#555555">虚掷的光阴一去不返，如今只能对空谷长啸、抒发愤懑——</text>
+  <text x="200" y="316" font-size="13" fill="#555555">可旁人听来，无非是一头野兽在怒吼。</text>
+
+  <text x="64" y="352" font-size="15" fill="#A6392E" font-weight="600">共鸣</text>
+  <text x="200" y="352" font-size="13" fill="#555555">每个人的心底都藏着一头猛兽：执念、虚荣、怯懦、傲慢。</text>
+  <text x="200" y="372" font-size="13" fill="#555555">人生的修行，是驯服它、与它共处——而非被它吞噬。</text>
+
+  <!-- quote line -->
+  <line x1="64" y1="404" x2="480" y2="404" stroke="#EFEBE4" stroke-width="1"/>
+  <text x="64" y="436" font-size="16" fill="#1F1F1F" font-family="KaiTi, Noto Serif SC">「于我而言，这种妄自尊大的羞耻心就是野兽，就是猛虎。」</text>
+
+  <!-- right image -->
+  <image x="520" y="170" width="376" height="287" href="../materials/assets/tiger_hero.png" preserveAspectRatio="xMidYMid meet"/>
+  <text x="520" y="478" font-size="11" fill="#B8B4AC">雪村笔 · 水墨虎（屏风局部）</text>
+
+  <!-- footer -->
+  <text x="64" y="528" font-size="11" fill="#B8B4AC">《山月记》读书分享 · 经典名句二</text>
+  <text x="896" y="528" font-size="11" fill="#B8B4AC" text-anchor="end">05</text>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" font-family="Noto Serif SC, serif">
+  <rect x="0" y="0" width="960" height="540" fill="#FFFFFF"/>
+
+  <text x="64" y="84" font-size="30" fill="#1F1F1F" font-weight="600">故事缘起</text>
+  <text x="64" y="116" font-size="15" fill="#A6392E">一个书生，为什么会变成老虎？</text>
+  <line x1="64" y1="138" x2="896" y2="138" stroke="#E3E0DA" stroke-width="1"/>
+
+  <!-- three blocks left -->
+  <text x="64" y="186" font-size="17" fill="#A6392E" font-weight="600">溯源</text>
+  <text x="64" y="212" font-size="14" fill="#555555">中岛敦取材唐传奇《人虎传》改写而成，</text>
+  <text x="64" y="234" font-size="14" fill="#555555">1942 年发表，是他的出道之作。</text>
+
+  <text x="64" y="286" font-size="17" fill="#A6392E" font-weight="600">故事</text>
+  <text x="64" y="312" font-size="14" fill="#555555">陇西书生李徵，年少成名，心性孤傲；</text>
+  <text x="64" y="334" font-size="14" fill="#555555">不甘为小吏折腰，一心以诗闻名。一日发狂，</text>
+  <text x="64" y="356" font-size="14" fill="#555555">遁入山林，化作猛虎。</text>
+
+  <text x="64" y="408" font-size="17" fill="#A6392E" font-weight="600">相遇</text>
+  <text x="64" y="434" font-size="14" fill="#555555">一年后，友人袁傪出使途中路过草丛——</text>
+  <text x="64" y="456" font-size="14" fill="#555555">虎的形貌之下，是半生无人可说的心事。</text>
+
+  <!-- right images -->
+  <image x="560" y="160" width="250" height="340" href="../materials/assets/mist_mountains.png" preserveAspectRatio="xMidYMid meet"/>
+  <image x="580" y="30" width="216" height="122" href="../materials/assets/author.png" preserveAspectRatio="xMidYMid meet"/>
+  <text x="580" y="172" font-size="11" fill="#B8B4AC">作者中岛敦（1909–1942）</text>
+
+  <!-- footer -->
+  <text x="64" y="528" font-size="11" fill="#B8B4AC">《山月记》读书分享</text>
+  <text x="896" y="528" font-size="11" fill="#B8B4AC" text-anchor="end">03</text>
+</svg>

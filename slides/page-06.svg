@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" font-family="Noto Serif SC, serif">
+  <rect x="0" y="0" width="960" height="540" fill="#FFFFFF"/>
+
+  <text x="64" y="84" font-size="30" fill="#1F1F1F" font-weight="600">手法一 · 双重叙事结构</text>
+  <text x="64" y="116" font-size="15" fill="#A6392E">离奇的故事，为什么反而显得真实？</text>
+  <line x1="64" y1="138" x2="896" y2="138" stroke="#E3E0DA" stroke-width="1"/>
+
+  <!-- two source cards -->
+  <rect x="64" y="170" width="380" height="130" fill="#FAF9F6"/>
+  <text x="88" y="202" font-size="16" fill="#A6392E" font-weight="600">前半 · 第一人称独白</text>
+  <text x="88" y="232" font-size="13" fill="#555555">长安道中，袁傪听李徵亲口讲述</text>
+  <text x="88" y="254" font-size="13" fill="#555555">自己变成虎的经过——直面忏悔，</text>
+  <text x="88" y="276" font-size="13" fill="#555555">情绪最浓烈的部分由「我」说出。</text>
+
+  <rect x="516" y="170" width="380" height="130" fill="#FAF9F6"/>
+  <text x="540" y="202" font-size="16" fill="#A6392E" font-weight="600">后半 · 第三人称补叙</text>
+  <text x="540" y="232" font-size="13" fill="#555555">「李徵旧文」与旁观者视角接续叙事，</text>
+  <text x="540" y="254" font-size="13" fill="#555555">像史书引证旧籍——把故事</text>
+  <text x="540" y="276" font-size="13" fill="#555555">放进「文献」的框架里。</text>
+
+  <!-- arrows -->
+  <path d="M 254 300 L 254 340 L 462 340" stroke="#A6392E" stroke-width="1.5" fill="none"/>
+  <path d="M 706 300 L 706 340 L 498 340" stroke="#A6392E" stroke-width="1.5" fill="none"/>
+  <path d="M 462 340 l -12 -6 v 12 z" fill="#A6392E"/>
+  <path d="M 498 340 l 12 -6 v 12 z" fill="#A6392E"/>
+
+  <!-- conclusion band -->
+  <rect x="64" y="366" width="832" height="86" fill="#FFFFFF" stroke="#A6392E" stroke-width="1"/>
+  <text x="480" y="402" font-size="16" fill="#1F1F1F" text-anchor="middle" font-weight="600">两个视角互相印证、互相补充</text>
+  <text x="480" y="430" font-size="13" fill="#555555" text-anchor="middle">让「人变虎」这个离奇的故事，有了一种文献记实的质感——越离奇，越可信。</text>
+
+  <!-- footer -->
+  <text x="64" y="528" font-size="11" fill="#B8B4AC">《山月记》读书分享 · 艺术手法</text>
+  <text x="896" y="528" font-size="11" fill="#B8B4AC" text-anchor="end">06</text>
+</svg>

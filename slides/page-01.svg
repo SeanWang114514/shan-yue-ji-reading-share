@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" font-family="Noto Serif SC, serif">
+  <!-- P1 封面：右侧墨虎，左侧逐字竖排标题 -->
+  <rect x="0" y="0" width="960" height="540" fill="#FFFFFF"/>
+
+  <!-- seal -->
+  <rect x="64" y="56" width="36" height="76" fill="#A6392E"/>
+  <text x="82" y="82" font-size="17" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle" font-family="KaiTi, Noto Serif SC">山</text>
+  <text x="82" y="106" font-size="17" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle" font-family="KaiTi, Noto Serif SC">月</text>
+
+  <!-- vertical title: one char per line -->
+  <text x="170" y="92" font-size="50" fill="#1F1F1F" font-weight="600" text-anchor="middle">山</text>
+  <text x="170" y="154" font-size="50" fill="#1F1F1F" font-weight="600" text-anchor="middle">月</text>
+  <text x="170" y="216" font-size="50" fill="#1F1F1F" font-weight="600" text-anchor="middle">照</text>
+  <text x="170" y="278" font-size="50" fill="#1F1F1F" font-weight="600" text-anchor="middle">见</text>
+  <text x="170" y="340" font-size="50" fill="#1F1F1F" font-weight="600" text-anchor="middle">心</text>
+  <text x="170" y="402" font-size="50" fill="#1F1F1F" font-weight="600" text-anchor="middle">中</text>
+  <text x="170" y="464" font-size="50" fill="#1F1F1F" font-weight="600" text-anchor="middle">虎</text>
+
+  <!-- info block -->
+  <text x="248" y="368" font-size="25" fill="#555555">《山月记》读书分享</text>
+  <line x1="248" y1="394" x2="470" y2="394" stroke="#E3E0DA" stroke-width="1"/>
+  <text x="248" y="424" font-size="14" fill="#8A8A8A">[日] 中岛敦 著 · 1942 年 · 取材唐传奇《人虎传》</text>
+  <text x="248" y="450" font-size="14" fill="#8A8A8A">语文课堂演讲</text>
+
+  <!-- tiger image right -->
+  <image x="530" y="35" width="390" height="465" href="../materials/assets/tiger_ink_gao.png" preserveAspectRatio="xMidYMid meet"/>
+
+  <!-- footer -->
+  <text x="64" y="518" font-size="11" fill="#B8B4AC">山月照见心中虎</text>
+</svg>

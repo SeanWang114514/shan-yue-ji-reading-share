@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" font-family="Noto Serif SC, serif">
+  <rect x="0" y="0" width="960" height="540" fill="#FFFFFF"/>
+
+  <!-- header -->
+  <text x="64" y="88" font-size="32" fill="#1F1F1F" font-weight="600">内容框架</text>
+  <text x="204" y="88" font-size="14" fill="#A6392E">读什么 · 怎么读 · 读见什么</text>
+  <line x1="64" y1="112" x2="896" y2="112" stroke="#E3E0DA" stroke-width="1"/>
+
+  <!-- rows -->
+  <text x="64" y="166" font-size="20" fill="#A6392E" font-family="Georgia, serif">01</text>
+  <text x="132" y="166" font-size="21" fill="#1F1F1F" font-weight="600">故事缘起</text>
+  <text x="300" y="166" font-size="14" fill="#8A8A8A">一个书生，为什么会变成老虎？</text>
+  <line x1="64" y1="184" x2="896" y2="184" stroke="#EFEBE4" stroke-width="1"/>
+
+  <text x="64" y="230" font-size="20" fill="#A6392E" font-family="Georgia, serif">02</text>
+  <text x="132" y="230" font-size="21" fill="#1F1F1F" font-weight="600">经典名句</text>
+  <text x="300" y="230" font-size="14" fill="#8A8A8A">美玉与瓦砾 · 驯兽师与猛兽</text>
+  <line x1="64" y1="248" x2="896" y2="248" stroke="#EFEBE4" stroke-width="1"/>
+
+  <text x="64" y="294" font-size="20" fill="#A6392E" font-family="Georgia, serif">03</text>
+  <text x="132" y="294" font-size="21" fill="#1F1F1F" font-weight="600">艺术手法</text>
+  <text x="300" y="294" font-size="14" fill="#8A8A8A">双重叙事 · 人兽互喻 · 汉文格调 · 元小说自觉</text>
+  <line x1="64" y1="312" x2="896" y2="312" stroke="#EFEBE4" stroke-width="1"/>
+
+  <text x="64" y="358" font-size="20" fill="#A6392E" font-family="Georgia, serif">04</text>
+  <text x="132" y="358" font-size="21" fill="#1F1F1F" font-weight="600">人物解读</text>
+  <text x="300" y="358" font-size="14" fill="#8A8A8A">是怀才不遇，还是眼高手低？</text>
+  <line x1="64" y1="376" x2="896" y2="376" stroke="#EFEBE4" stroke-width="1"/>
+
+  <text x="64" y="422" font-size="20" fill="#A6392E" font-family="Georgia, serif">05</text>
+  <text x="132" y="422" font-size="21" fill="#1F1F1F" font-weight="600">观照自我</text>
+  <text x="300" y="422" font-size="14" fill="#8A8A8A">照镜子的时刻 · 一点启示</text>
+
+  <!-- bottom banner -->
+  <image x="64" y="446" width="832" height="64" href="../materials/assets/mountains_wide.png" preserveAspectRatio="xMidYMid meet"/>
+
+  <!-- footer -->
+  <text x="64" y="528" font-size="11" fill="#B8B4AC">《山月记》读书分享</text>
+  <text x="896" y="528" font-size="11" fill="#B8B4AC" text-anchor="end">02</text>
+</svg>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" font-family="Noto Serif SC, serif">
+  <rect x="0" y="0" width="960" height="540" fill="#FFFFFF"/>
+
+  <text x="64" y="84" font-size="30" fill="#1F1F1F" font-weight="600">手法二 · 人兽互喻</text>
+  <text x="64" y="116" font-size="15" fill="#A6392E">变虎，不是一瞬的法术，而是一点点的兽化。</text>
+  <line x1="64" y1="138" x2="896" y2="138" stroke="#E3E0DA" stroke-width="1"/>
+
+  <!-- quote -->
+  <text x="64" y="180" font-size="19" fill="#1F1F1F" font-family="KaiTi, Noto Serif SC">「现在的我，是一只野兽。」</text>
+
+  <!-- human-beast gradient bar -->
+  <rect x="64" y="212" width="832" height="26" fill="#FAF9F6"/>
+  <text x="92" y="230" font-size="13" fill="#555555">人性未泯</text>
+  <text x="868" y="230" font-size="13" fill="#555555" text-anchor="end">兽性渐盛</text>
+  <line x1="180" y1="225" x2="800" y2="225" stroke="#8A8A8A" stroke-width="1.5"/>
+  <path d="M 806 225 l -12 -5 v 10 z" fill="#8A8A8A"/>
+  <text x="490" y="230" font-size="12" fill="#A6392E" text-anchor="middle">李徵在这一段上，被一点点拉向右端</text>
+
+  <!-- three points -->
+  <rect x="64" y="268" width="256" height="128" fill="#FAF9F6"/>
+  <text x="84" y="296" font-size="15" fill="#A6392E" font-weight="600">外貌已兽 · 人性未泯</text>
+  <text x="84" y="322" font-size="13" fill="#555555">他反复强调，自己心中</text>
+  <text x="84" y="343" font-size="13" fill="#555555">还留着人性，可外貌</text>
+  <text x="84" y="364" font-size="13" fill="#555555">已经是虎。</text>
+
+  <rect x="352" y="268" width="256" height="128" fill="#FAF9F6"/>
+  <text x="372" y="296" font-size="15" fill="#A6392E" font-weight="600">精妙的自我解剖</text>
+  <text x="372" y="322" font-size="13" fill="#555555">作者不写「变虎」的奇观，</text>
+  <text x="372" y="343" font-size="13" fill="#555555">而写野心与自尊的撕扯下，</text>
+  <text x="372" y="364" font-size="13" fill="#555555">一个人的渐变过程。</text>
+
+  <rect x="640" y="268" width="256" height="128" fill="#FAF9F6"/>
+  <text x="660" y="296" font-size="15" fill="#A6392E" font-weight="600">象征内核</text>
+  <text x="660" y="322" font-size="13" fill="#555555">变虎实质上象征了普通人</text>
+  <text x="660" y="343" font-size="13" fill="#555555">身上，耻感与自尊</text>
+  <text x="660" y="364" font-size="13" fill="#555555">的冲突。</text>
+
+  <text x="64" y="436" font-size="13" fill="#555555">于李徵而言，这头虎是怯懦，是傲慢，是虚荣，是不肯落地的清高——它不是外来的怪物，是从他自己心里长出来的。</text>
+
+  <!-- footer -->
+  <text x="64" y="528" font-size="11" fill="#B8B4AC">《山月记》读书分享 · 艺术手法</text>
+  <text x="896" y="528" font-size="11" fill="#B8B4AC" text-anchor="end">07</text>
+</svg>

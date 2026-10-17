@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" font-family="Noto Serif SC, serif">
+  <rect x="0" y="0" width="960" height="540" fill="#FFFFFF"/>
+
+  <text x="64" y="84" font-size="30" fill="#1F1F1F" font-weight="600">一点启示</text>
+  <text x="64" y="116" font-size="15" fill="#A6392E">不必先问，自己是不是美玉</text>
+  <line x1="64" y1="138" x2="896" y2="138" stroke="#E3E0DA" stroke-width="1"/>
+
+  <!-- quote -->
+  <text x="64" y="186" font-size="18" fill="#1F1F1F" font-family="KaiTi, Noto Serif SC">「如果本就喜欢雕琢，那么就闷着头雕琢自己就好了，</text>
+  <text x="64" y="216" font-size="18" fill="#1F1F1F" font-family="KaiTi, Noto Serif SC">　何必在乎自己有没有成为美玉的潜质呢？」</text>
+
+  <!-- three points -->
+  <text x="64" y="272" font-size="15" fill="#A6392E" font-weight="600">曲线</text>
+  <text x="150" y="272" font-size="13" fill="#555555">付出与收获不是匀速的直线，而是指数曲线——大量耕耘在前，相变在后。</text>
+
+  <line x1="64" y1="294" x2="820" y2="294" stroke="#EFEBE4" stroke-width="1"/>
+
+  <text x="64" y="330" font-size="15" fill="#A6392E" font-weight="600">煎熬</text>
+  <text x="150" y="330" font-size="13" fill="#555555">阈值何时到来无人知晓，所以才煎熬；即便突破成了美玉，也仍要继续雕琢。</text>
+
+  <line x1="64" y1="352" x2="820" y2="352" stroke="#EFEBE4" stroke-width="1"/>
+
+  <text x="64" y="388" font-size="15" fill="#A6392E" font-weight="600">意义</text>
+  <text x="150" y="388" font-size="13" fill="#555555">哪怕只是一块普通的石头，每一刀打磨里的沉浸与喜悦，本身就已经是全部的意义。</text>
+
+  <!-- right image -->
+  <image x="676" y="180" width="220" height="300" href="../materials/assets/bamboo.png" preserveAspectRatio="xMidYMid meet"/>
+
+  <!-- footer -->
+  <text x="64" y="528" font-size="11" fill="#B8B4AC">《山月记》读书分享 · 观照自我</text>
+  <text x="896" y="528" font-size="11" fill="#B8B4AC" text-anchor="end">12</text>
+</svg>

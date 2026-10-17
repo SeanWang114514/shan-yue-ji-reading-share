@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" font-family="Noto Serif SC, serif">
+  <rect x="0" y="0" width="960" height="540" fill="#FFFFFF"/>
+
+  <text x="64" y="84" font-size="30" fill="#1F1F1F" font-weight="600">最戳人的一句话</text>
+  <text x="64" y="116" font-size="15" fill="#A6392E">为什么这句话，读完心里堵了好一会儿？</text>
+  <line x1="64" y1="138" x2="896" y2="138" stroke="#E3E0DA" stroke-width="1"/>
+
+  <!-- quote -->
+  <text x="480" y="176" font-size="20" fill="#1F1F1F" text-anchor="middle" font-family="KaiTi, Noto Serif SC">「我深怕自己本非美玉，故而不敢加以刻苦琢磨；</text>
+  <text x="480" y="206" font-size="20" fill="#1F1F1F" text-anchor="middle" font-family="KaiTi, Noto Serif SC">却又半信自己是块美玉，故又不肯庸庸碌碌，与瓦砾为伍。</text>
+  <text x="480" y="236" font-size="20" fill="#1F1F1F" text-anchor="middle" font-family="KaiTi, Noto Serif SC">于是我渐渐地脱离凡尘，疏远世人，</text>
+  <text x="480" y="266" font-size="20" fill="#1F1F1F" text-anchor="middle" font-family="KaiTi, Noto Serif SC">结果便是一任愤懑与羞恨日益助长内心那怯弱的自尊心。」</text>
+  <text x="480" y="296" font-size="13" fill="#8A8A8A" text-anchor="middle">—— 李徵的自白 · 名句全文</text>
+
+  <!-- three cards -->
+  <rect x="64" y="322" width="256" height="118" fill="#FAF9F6"/>
+  <text x="84" y="350" font-size="15" fill="#A6392E" font-weight="600">怕非美玉，不敢深耕</text>
+  <text x="84" y="376" font-size="13" fill="#555555">怀疑自己的才华：不敢求师</text>
+  <text x="84" y="397" font-size="13" fill="#555555">问学，也不敢与好友切磋。</text>
+
+  <rect x="352" y="322" width="256" height="118" fill="#FAF9F6"/>
+  <text x="372" y="350" font-size="15" fill="#A6392E" font-weight="600">又信美玉，不甘平庸</text>
+  <text x="372" y="376" font-size="13" fill="#555555">自视清高：不屑与凡夫俗子</text>
+  <text x="372" y="397" font-size="13" fill="#555555">为伍，不肯落地踏实用功。</text>
+
+  <rect x="640" y="322" width="256" height="118" fill="#FAF9F6"/>
+  <text x="660" y="350" font-size="15" fill="#A6392E" font-weight="600">内耗困局</text>
+  <text x="660" y="376" font-size="13" fill="#555555">用逃避掩盖怯懦，用自负掩饰</text>
+  <text x="660" y="397" font-size="13" fill="#555555">自卑——思想上的巨人，行动上的矮子。</text>
+
+  <text x="64" y="472" font-size="12" fill="#8A8A8A">注：李徵曾被誉为「乡党之鬼才」，才华已被部分认可——正因为尝过认可，自尊与羞耻才同时疯长。</text>
+
+  <!-- footer -->
+  <text x="64" y="528" font-size="11" fill="#B8B4AC">《山月记》读书分享 · 经典名句一</text>
+  <text x="896" y="528" font-size="11" fill="#B8B4AC" text-anchor="end">04</text>
+</svg>

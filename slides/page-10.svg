@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" font-family="Noto Serif SC, serif">
+  <rect x="0" y="0" width="960" height="540" fill="#FFFFFF"/>
+
+  <text x="64" y="84" font-size="30" fill="#1F1F1F" font-weight="600">人物解读 · 李徵的困境</text>
+  <text x="64" y="116" font-size="15" fill="#A6392E">到底是怀才不遇，还是眼高手低？</text>
+  <line x1="64" y1="138" x2="896" y2="138" stroke="#E3E0DA" stroke-width="1"/>
+
+  <!-- base tone band -->
+  <rect x="64" y="158" width="832" height="52" fill="#FAF9F6"/>
+  <text x="88" y="180" font-size="14" fill="#A6392E" font-weight="600">人物底色 · 孤傲与自负</text>
+  <text x="88" y="200" font-size="13" fill="#555555">年少成名，自带文人清高；鄙夷官场逢迎、世俗庸碌，一心追求以诗文传世。</text>
+
+  <!-- two columns -->
+  <rect x="64" y="228" width="404" height="130" fill="#FFFFFF" stroke="#E3E0DA" stroke-width="1"/>
+  <text x="88" y="260" font-size="15" fill="#1F1F1F" font-weight="600">自负的枷锁</text>
+  <text x="88" y="288" font-size="13" fill="#555555">自认天赋异禀，不屑平庸，也不屑刻意勤学；</text>
+  <text x="88" y="309" font-size="13" fill="#555555">不愿与世人切磋求教——怕努力之后依旧平庸，</text>
+  <text x="88" y="330" font-size="13" fill="#555555">暴露自己的才华短板。</text>
+
+  <rect x="492" y="228" width="404" height="130" fill="#FFFFFF" stroke="#E3E0DA" stroke-width="1"/>
+  <text x="516" y="260" font-size="15" fill="#1F1F1F" font-weight="600">自卑的怯懦</text>
+  <text x="516" y="288" font-size="13" fill="#555555">极度畏惧失败，不敢潜心打磨诗文、深耕理想；</text>
+  <text x="516" y="309" font-size="13" fill="#555555">用孤傲伪装内心的惶恐，用清高逃避</text>
+  <text x="516" y="330" font-size="13" fill="#555555">努力的艰辛与未知的挫败。</text>
+
+  <!-- moon metaphor band -->
+  <image x="64" y="382" width="120" height="122" href="../materials/assets/pine_moon.png" preserveAspectRatio="xMidYMid meet"/>
+  <text x="212" y="410" font-size="14" fill="#A6392E" font-weight="600">月亮的隐喻</text>
+  <text x="212" y="436" font-size="13" fill="#555555">他早已望见月亮的美，便不甘于现实；可才华又不足以支撑他够到月亮——</text>
+  <text x="212" y="457" font-size="13" fill="#555555">最终两边都不沾：既无法享受生活的乐趣，也到不了心中的艺术理想。</text>
+  <text x="212" y="484" font-size="13" fill="#8A8A8A">困住他的，从来不是世俗，是他自己。</text>
+
+  <!-- footer -->
+  <text x="64" y="528" font-size="11" fill="#B8B4AC">《山月记》读书分享 · 人物解读</text>
+  <text x="896" y="528" font-size="11" fill="#B8B4AC" text-anchor="end">10</text>
+</svg>

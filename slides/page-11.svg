@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" font-family="Noto Serif SC, serif">
+  <rect x="0" y="0" width="960" height="540" fill="#FFFFFF"/>
+
+  <text x="64" y="84" font-size="30" fill="#1F1F1F" font-weight="600">观照自我 · 照镜子的时刻</text>
+  <text x="64" y="116" font-size="15" fill="#A6392E">我们为什么在李徵身上，看到了自己？</text>
+  <line x1="64" y1="138" x2="896" y2="138" stroke="#E3E0DA" stroke-width="1"/>
+
+  <!-- three mirror lines -->
+  <text x="64" y="188" font-size="16" fill="#1F1F1F" font-weight="600">想努力</text>
+  <text x="180" y="188" font-size="14" fill="#555555">又怕努力之后，才发现自己资质平平——连「我尽力了」这个台阶都留不下。</text>
+
+  <line x1="64" y1="212" x2="896" y2="212" stroke="#EFEBE4" stroke-width="1"/>
+
+  <text x="64" y="252" font-size="16" fill="#1F1F1F" font-weight="600">想被认可</text>
+  <text x="180" y="252" font-size="14" fill="#555555">又为这份渴望感到难为情——像李徵那样，一边割舍不下，一边为割舍不下而难堪。</text>
+
+  <line x1="64" y1="276" x2="896" y2="276" stroke="#EFEBE4" stroke-width="1"/>
+
+  <text x="64" y="316" font-size="16" fill="#1F1F1F" font-weight="600">读完之后</text>
+  <text x="180" y="316" font-size="14" fill="#555555">心里堵了好一会儿——作者不批判他，只平静地把这一点摆出来，反而更让人无法回避。</text>
+
+  <!-- conclusion band -->
+  <rect x="64" y="366" width="832" height="88" fill="#FAF9F6"/>
+  <text x="480" y="402" font-size="15" fill="#1F1F1F" text-anchor="middle" font-weight="600">李徵的悲剧看似离奇，细细想来又很日常。</text>
+  <text x="480" y="430" font-size="13" fill="#555555" text-anchor="middle">可能每个人心里都住着一只虎，也都住在某个自己渐渐陌生的身体里。</text>
+
+  <!-- footer -->
+  <text x="64" y="528" font-size="11" fill="#B8B4AC">《山月记》读书分享 · 观照自我</text>
+  <text x="896" y="528" font-size="11" fill="#B8B4AC" text-anchor="end">11</text>
+</svg>

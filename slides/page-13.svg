@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" font-family="Noto Serif SC, serif">
+  <rect x="0" y="0" width="960" height="540" fill="#FFFFFF"/>
+
+  <!-- main lines -->
+  <text x="480" y="150" font-size="34" fill="#1F1F1F" text-anchor="middle" font-weight="600">山月千古依旧，人心自有迷途。</text>
+
+  <text x="480" y="230" font-size="17" fill="#555555" text-anchor="middle">愿我们都能直面那个不完美的自己，</text>
+  <text x="480" y="262" font-size="17" fill="#555555" text-anchor="middle">驯服心底的猛虎，</text>
+  <text x="480" y="294" font-size="17" fill="#555555" text-anchor="middle">坦然地，一步一步往前走。</text>
+
+  <!-- seal thanks -->
+  <rect x="444" y="336" width="72" height="40" fill="#A6392E"/>
+  <text x="480" y="362" font-size="17" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle" font-family="KaiTi, Noto Serif SC">谢谢大家</text>
+
+  <!-- bottom banner -->
+  <image x="64" y="420" width="832" height="86" href="../materials/assets/mountains_wide.png" preserveAspectRatio="xMidYMid meet"/>
+
+  <!-- footer -->
+  <text x="64" y="528" font-size="11" fill="#B8B4AC">《山月记》读书分享 · 山月照见心中虎</text>
+  <text x="896" y="528" font-size="11" fill="#B8B4AC" text-anchor="end">13</text>
+</svg>
